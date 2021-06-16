@@ -210,7 +210,7 @@
             // 
             // panel3
             // 
-            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.panel3.Controls.Add(this.label8);
             this.panel3.Controls.Add(this.lblSubTotal);
             this.panel3.Controls.Add(this.lblTotItens);
